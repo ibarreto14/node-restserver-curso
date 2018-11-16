@@ -1,0 +1,16 @@
+{
+  "name": "07-restserver",
+  "version": "1.0.0",
+  "description": "Api RESTServer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Barrett",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "npm": "^6.4.1"
+  }
+}
